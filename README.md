@@ -4,7 +4,7 @@ A modern, responsive, and interactive **Food Landing Page** built with **HTML, C
 
 ---
 
-Live Demo - https://prakharagrawal123.github.io/Foodie-Hub-Landing-page/
+Live Demo - https://foodiee-hub-720195.netlify.app/
 
 ## 🌟 Features
 
